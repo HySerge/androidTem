@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.hyserge.androidtem.services
 
+import com.github.hyserge.androidtem.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
